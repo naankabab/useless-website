@@ -1,3 +1,4 @@
 # useless-website
 
-click to visit : https://naankabab.github.io/
+Click to see this awesome website i made
+https://naankabab.github.io/useless-website
